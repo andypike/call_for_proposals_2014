@@ -15,7 +15,7 @@ This talk is about my TDD journey, about what I was doing and why, about what th
 Andy is Technical Director of 1minus1, a small digital agency in leafy Surrey, England. Andy hacks on Ruby and sometimes .NET. Andy has spoken at local user groups, coached at RailsGirls and contributed to Open Source. When he's not coding he's watching eSports - that's geeks playing competative computer games for big prize money - "My life for Aiur".
 
 
-![Profile picture](https://github.com/andypike/call_for_proposals_2014/blob/master/andy_pike-how_ive_been_doing_tdd_wrong/andy_pike.jpg)
+![Profile picture](https://raw.github.com/andypike/call_for_proposals_2014/master/andy_pike-how_ive_been_doing_tdd_wrong/andy_pike.jpg)
 
 - [My website](http://github.com/andypike)
 - [My twitter](https://twitter.com/andypike)
